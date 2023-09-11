@@ -1,0 +1,15 @@
+C:\Users\TwisSide\Desktop\cs stuff\bin\Debug\net7.0\try something.exe
+C:\Users\TwisSide\Desktop\cs stuff\bin\Debug\net7.0\try something.deps.json
+C:\Users\TwisSide\Desktop\cs stuff\bin\Debug\net7.0\try something.runtimeconfig.json
+C:\Users\TwisSide\Desktop\cs stuff\bin\Debug\net7.0\try something.dll
+C:\Users\TwisSide\Desktop\cs stuff\bin\Debug\net7.0\try something.pdb
+C:\Users\TwisSide\Desktop\cs stuff\obj\Debug\net7.0\try something.csproj.AssemblyReference.cache
+C:\Users\TwisSide\Desktop\cs stuff\obj\Debug\net7.0\try something.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TwisSide\Desktop\cs stuff\obj\Debug\net7.0\try something.AssemblyInfoInputs.cache
+C:\Users\TwisSide\Desktop\cs stuff\obj\Debug\net7.0\try something.AssemblyInfo.cs
+C:\Users\TwisSide\Desktop\cs stuff\obj\Debug\net7.0\try something.csproj.CoreCompileInputs.cache
+C:\Users\TwisSide\Desktop\cs stuff\obj\Debug\net7.0\try something.dll
+C:\Users\TwisSide\Desktop\cs stuff\obj\Debug\net7.0\refint\try something.dll
+C:\Users\TwisSide\Desktop\cs stuff\obj\Debug\net7.0\try something.pdb
+C:\Users\TwisSide\Desktop\cs stuff\obj\Debug\net7.0\try something.genruntimeconfig.cache
+C:\Users\TwisSide\Desktop\cs stuff\obj\Debug\net7.0\ref\try something.dll
